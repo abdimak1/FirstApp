@@ -1,0 +1,10 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "dependencies": {
+    "install": "^0.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
